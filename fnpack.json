@@ -1,0 +1,19 @@
+{
+  "fntermx": {
+    "display_name": "终端",
+    "desc": "这是一个测试应用。",
+    "labels": "工具,效率",
+    "version": "1.0.0",
+    "icon": "", 
+    "download_url": "", 
+    "maintainer": "EWEDL",
+    "maintainer_url": "h/",
+    "bug_report_url": "",
+    "install_type": "系统空间",
+    "size": "42.5",
+    "history": {
+      "v1.0.0": "1. 初始版本发布。",
+      "v0.9.0": "1. 首个公开测试版。"
+    }
+  }
+}
