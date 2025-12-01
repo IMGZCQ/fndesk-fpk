@@ -31,5 +31,18 @@
     "install_type": "系统空间",
     "size": "0.5",
     "history": {"v0.77":"修复错误,性能优化"}
+  }, 
+    "boombird": {
+    "display_name": "压爆只雀",
+    "desc": "压扁小鸟的解压小游戏",
+    "labels": "娱乐, 解压",
+    "version": "0.77",
+    "download_url": "https://fndesk.imcq.top/FPK/boombird.fpk", 
+    "author": "米恋泥",
+    "author_url": "https://github.com/IMGZCQ/FnDepot",
+    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "0.9",
+    "history": {"v0.77":"修复错误,性能优化"}
   }
 }
