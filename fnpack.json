@@ -17,5 +17,17 @@
       "v0.79": "窗口/文件夹兼容飞牛窗口不再遮挡,登录页增加记住密码选项",
       "v0.83.2": "适配飞牛1.1.0内测版,每个图标/文件夹增加独立开关,页內窗口/文件夹增加明暗色调ui风格,修复删除文件夹后所属图标无家可归"
     }
+  }, 
+    "fncube": {
+    "display_name": "三阶魔方",
+    "desc": "一个完整出的三阶魔方",
+    "labels": "娱乐, 益智",
+    "version": "0.77",
+    "download_url": "https://fndesk.imcq.top/fncube.fpk", 
+    "author": "米恋泥",
+    "author_url": "https://github.com/IMGZCQ/FnDepot",
+    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": 0.1",
   }
 }
