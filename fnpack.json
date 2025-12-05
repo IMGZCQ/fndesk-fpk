@@ -21,14 +21,14 @@
     "display_name": "三阶魔方",
     "desc": "一个完整的三阶魔方",
     "labels": "娱乐, 益智",
-    "version": "0.77",
+    "version": "0.88",
     "download_url": "https://fndesk.imcq.top/FPK/fncube.fpk", 
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
     "size": "0.5",
-    "history": {"v0.77":"修复错误,性能优化"}
+    "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
     "boombird": {
     "display_name": "压爆只雀",
