@@ -36,7 +36,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "0.455",
+    "size": "大概半个",
     "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
     "boombird": {
@@ -49,7 +49,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "0.895",
+    "size": "不超过1",
     "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
     "cutcubes": {
@@ -62,7 +62,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "0.676",
+    "size": "只有0.6",
     "history": {"v0.88":"手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }
 }
